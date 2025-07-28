@@ -1,0 +1,675 @@
+{
+  "title": "group project fullstack.pdf",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Mid-Course Progress Report",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "for Full Stack Web Developer",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Course",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "INDUSTRY COACH : Prashanth K",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "PROJECT TITLE : Farmer Management",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "TEAM MEMBERS DETAILS :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Nidamanuri Naga Lavanya",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Branch :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Information Technology",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "College Registration Number :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "22PA1A12C7",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Turaga Vishnu Sahitya",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Branch :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Computer Science and Engineering",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "College Registration Number :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "22PA1A05G7",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Name",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Yerva Sri Deekshitha",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Branch :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Computer Science and Engineering",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "College Registration Number :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "22PA1A05I8",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Department",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Faculty Coordinator Name : Mr A .Venu Gopal",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "Faculty Coordinator Signature :",
+      "page": 1
+    },
+    {
+      "level": "H3",
+      "text": "HOD Name: Mrs M.Sri Lakshmi",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "HOD Signature:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "PROJECT REPORT:",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Project Idea : Farmer Management",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Overview:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "In the agricultural sector, middlemen have always been between the customer",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "and the farmer.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "This entire process is often lengthy and inefficient, leading to product",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "damage, surplus, and even inflation in prices. Global trends are influencing food",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "security, poverty, and the sustainability of agricultural systems.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Farm Fresh Fare",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "offers a platform for aspiring farmers to connect with",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "experienced farm patrons willing to teach farming at a minimal cost. Farmers, who often",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "leave the profession due to financial struggles, can now earn income by teaching those",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "passionate about farming. This creates a sustainable system where farming knowledge is",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "passed down, ensuring we can overcome future food scarcity.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Features:",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "A simple, intuitive user interface that allows farmers to list products and",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "customers to search for and purchase them.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Customers can create and manage profiles, view their orders, and track deliveries.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Farmers can manage product listings, view orders, and update their profiles.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Customers and learners can interact with farm patrons, both virtually and in",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "person.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Daily weather updates to help farmers plan accordingly.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Integration with maps, allowing customers to visit nearby farms.",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Secure platform with encryption for sensitive data such as payment information.",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Used Technologies :",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Node.js and Express.js:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "These technologies form the core of your web application,",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "managing tasks like handling HTTP requests, directing traffic, and displaying web pages.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Firebase Authentication:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "You use Firebase for customer authentication, allowing",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "users to sign up and login with their email and password.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Firestore database:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Firestore is used as a NoSQL database to store customer",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "data and registered details.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Body-parse library :",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "It is used to hide the user details in the HTTP requests . It",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "can also used as security library .By this the data will be safe.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "APIs:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Video SDK –",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For enabling virtual interactions and video calls between Farmers",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "and customers.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Open Weather API –",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "To provide farmers with real-time weather updates for",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "planning.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Google Maps API –",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "For location services , allowing customers to find",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "nearby farms and navigate easily.",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Security :",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Encryption –",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "For securing sensitive information such as payment details and",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "personal data .",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "STRUCTURE OF THE PROJECT :",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "It consists of various routes and publics signup, login, home, about, contact us, etc. for",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "handling the customer registration and events managemen",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Customer Access:",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Users can sign in using their email and password.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "Passwords are securely verified using the hashed password from the database.",
+      "page": 3
+    },
+    {
+      "level": "H3",
+      "text": "User can have the access to the website.",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Images of the webpage:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "1.Home Pages:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "2.Login and Signup pages:",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "3.Database:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "In this I have used the google firestore database.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "We created the two types of collections.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "One is Submit collection.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "In submit collection we used to store the data of users signup details.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "In todo collection we used to store the data of event registration details.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Ideas to Improve the Project:",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Security –",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Store passwords securely using hashing .Implement multi-factor",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "authentication and strict Firebase access rules.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Validation –",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Add client-side and server-side input validation .Improve error",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "handling with clear messages for invalid inputs.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Documentation –",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Provide clear user guides and developer documentation for",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "the platform and Apis .",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "User Experience –",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Add password reset options and better frontend validation for",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "a smoother experience . Enchance the user interface for a more intuitive and",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "user-friendly design.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Frontend Enchancement –",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Use responsive design to ensure a mobile-friendly",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "interface . Incorporate a farming theme with natural colours and elements.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Testing –",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Implement unit and integration testing to ensure stable functionality.",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Scaling –",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Optimize firebase for scalability and prepare the backend for handling",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "larger traffic loads.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Future Improvements:",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Additional Payment Options -",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Integrate more payment gateways for greater",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "flexibility.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Data Analytics –",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Provide farmers with insights on product demand and customer",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "preferences.",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Technological Apis –",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "Incorporate advanced farming-related APIs for weather",
+      "page": 6
+    },
+    {
+      "level": "H3",
+      "text": "forecasting, soil health monitoring, and smart farming techniques.",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Contribution From each team member :",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "References :",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Source Code :",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "https://github.com/lavanyanidamanuri555/farming-.git",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Youtube link :",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "https://youtu.be/HuoAM7DBgf8?si=ag5f70-8x5IAPRAx",
+      "page": 7
+    }
+  ]
+}
